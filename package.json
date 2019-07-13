@@ -1,0 +1,32 @@
+{
+  "name": "microservice-dblisteners",
+  "version": "0.0.1",
+  "description": "CouchDB listeners for microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start, npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dilas12345/microservice-dblisteners.git"
+  },
+  "keywords": [
+    "dblisteners",
+    "couchdb"
+  ],
+  "author": "Yusuph Dilas Che",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilas12345/microservice-dblisteners/issues"
+  },
+  "homepage": "https://github.com/dilas12345/microservice-dblisteners#readme",
+  "dependencies": {
+    "follow": "^1.1.0",
+    "glob": "^7.1.4",
+    "mkdirp": "^0.5.1",
+    "nano": "^8.1.0",
+    "snyk": "^1.193.1",
+    "uuid": "^3.3.2",
+    "web-push": "^3.3.5"
+  }
+}
